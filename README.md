@@ -6,6 +6,7 @@
 ### Display:
 * Works in **landscape** mode and support **split view** (also called multitasking)
 * Displays 5 daily prayer times and highlights the **current** prayer and **countdown** to the next one (the app HUDA has a good UI actually, see screenshot below)
+* In settings: ability to increase/reduce font size to accommodate larger/smaller iPads or iPhones
 
 ### Adhan and Alarms:
 * Allows the selection of your own **Adhan audio file** for each prayer either as an MP3 or fetch it from your iTunes/Apple music library (can be different for each prayer, not one for all like many apps force you to do)
